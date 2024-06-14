@@ -1,0 +1,227 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "bi-001",
+    "label": "Hilton and Laura wedding photo",
+    "description_en": "A photo of Laura and Joseph who were both deaf on their wedding day ",
+    "location": "Roatan, Honduras",
+    "tag": "historical-photo|photo|family-history|Bay-Islands|Roatan",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/bi-001",
+    "lunr_id": 0
+  },
+  {
+    "pid": "bi-002",
+    "label": "Deaf-blind Bay Islands signers and researchers from Trinidad",
+    "description_en": "A photo of two deaf-blind signers in Roatan, Bay Islands being recorded by researchers from Trinidad",
+    "location": "Roatan, Honduras",
+    "tag": "Bay-Islands|Roatan|research",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/bi-002",
+    "lunr_id": 1
+  },
+  {
+    "pid": "bi-003",
+    "label": "Deaf Bay Islands signers as children",
+    "description_en": "A photo of four deaf signers as children",
+    "location": "Roatan, Honduras",
+    "tag": "historical-photo|photo|family-history|Bay-Islands|Roatan",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/bi-003",
+    "lunr_id": 2
+  },
+  {
+    "pid": "fal-001",
+    "label": "Deaf Falmouth signers and researchers from Trinidad",
+    "description_en": "A photo of deaf signers in Falmouth being recorded by researchers from Trinidad",
+    "location": "Falmouth, Guyana",
+    "tag": "Guyana|Falmouth|research",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/fal-001",
+    "lunr_id": 3
+  },
+  {
+    "pid": "pro-001",
+    "label": "Washabaugh & ",
+    "description_en": "Washabaugh and person on Providence Island",
+    "location": "Providence Island, Colombia",
+    "tag": "research|historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/pro-001",
+    "lunr_id": 4
+  },
+  {
+    "pid": "pro-002",
+    "label": "Some guy and children",
+    "description_en": "Washabaugh and person on Providence Island",
+    "location": "Providence Island, Colombia",
+    "tag": "research|historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/pro-002",
+    "lunr_id": 5
+  },
+  {
+    "pid": "tto-001",
+    "label": "Peggy Parsons teaching Total Communication to teachers at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-001",
+    "lunr_id": 6
+  },
+  {
+    "pid": "tto-002",
+    "label": "Teachers and principal at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-002",
+    "lunr_id": 7
+  },
+  {
+    "pid": "tto-003",
+    "label": "Peggy Parsons teaching Total Communication at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-003",
+    "lunr_id": 8
+  },
+  {
+    "pid": "tto-004",
+    "label": "Sports competition at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-004",
+    "lunr_id": 9
+  },
+  {
+    "pid": "tto-005",
+    "label": "Oralism class at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-005",
+    "lunr_id": 10
+  },
+  {
+    "pid": "tto-006",
+    "label": "Students at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-006",
+    "lunr_id": 11
+  },
+  {
+    "pid": "tto-007",
+    "label": "Sports competition at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-007",
+    "lunr_id": 12
+  },
+  {
+    "pid": "tto-008",
+    "label": "Teachers and students at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-008",
+    "lunr_id": 13
+  },
+  {
+    "pid": "tto-009",
+    "label": "Teacher at classtime at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto-009",
+    "lunr_id": 14
+  },
+  {
+    "pid": "tto-010",
+    "label": "Sports competition at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-010/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/tto-010",
+    "lunr_id": 15
+  },
+  {
+    "pid": "tto-012",
+    "label": "Oralism class at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-012/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/tto-012",
+    "lunr_id": 16
+  },
+  {
+    "pid": "tto010",
+    "label": "Sports competition at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-photo",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto010",
+    "lunr_id": 17
+  },
+  {
+    "pid": "tto011",
+    "label": "Sewing class at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-page",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto011",
+    "lunr_id": 18
+  },
+  {
+    "pid": "tto012",
+    "label": "Oralism class at Cascade School for the Deaf",
+    "description_en": "Taken at Cascade School for the Deaf",
+    "location": "Trinidad, Trinidad and Tobago",
+    "tag": "historical-page",
+    "collection": "minicomp",
+    "content": " ",
+    "permalink": "/minicomp/tto012",
+    "lunr_id": 19
+  }
+]

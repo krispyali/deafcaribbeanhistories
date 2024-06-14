@@ -1,0 +1,86 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/minicomp.json",
+  "@type": "sc:Collection",
+  "label": "minicomp",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bi-001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bi-001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bi-002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bi-002"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bi-003/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bi-003"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fal-001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fal-001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-002"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-003/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-003"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-004/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-004"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-005/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-005"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-006/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-006"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-007/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-007"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-008/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-008"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-009/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-009"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-010/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-010"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tto-012/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tto-012"
+    }
+  ]
+}
