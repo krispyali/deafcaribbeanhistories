@@ -9,6 +9,7 @@ layout: none
     "location": "Roatan, Honduras",
     "tag": "historical-photo|photo|family-history|Bay-Islands|Roatan",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/bi-001/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bi-001",
     "lunr_id": 0
@@ -20,6 +21,7 @@ layout: none
     "location": "Roatan, Honduras",
     "tag": "Bay-Islands|Roatan|research",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/bi-002/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bi-002",
     "lunr_id": 1
@@ -31,6 +33,7 @@ layout: none
     "location": "Roatan, Honduras",
     "tag": "historical-photo|photo|family-history|Bay-Islands|Roatan",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/bi-003/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bi-003",
     "lunr_id": 2
@@ -42,31 +45,10 @@ layout: none
     "location": "Falmouth, Guyana",
     "tag": "Guyana|Falmouth|research",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/fal-001/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/fal-001",
     "lunr_id": 3
-  },
-  {
-    "pid": "pro-001",
-    "label": "Washabaugh & ",
-    "description_en": "Washabaugh and person on Providence Island",
-    "location": "Providence Island, Colombia",
-    "tag": "research|historical-photo",
-    "collection": "minicomp",
-    "content": " ",
-    "permalink": "/minicomp/pro-001",
-    "lunr_id": 4
-  },
-  {
-    "pid": "pro-002",
-    "label": "Some guy and children",
-    "description_en": "Washabaugh and person on Providence Island",
-    "location": "Providence Island, Colombia",
-    "tag": "research|historical-photo",
-    "collection": "minicomp",
-    "content": " ",
-    "permalink": "/minicomp/pro-002",
-    "lunr_id": 5
   },
   {
     "pid": "tto-001",
@@ -75,9 +57,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-001/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-001",
-    "lunr_id": 6
+    "lunr_id": 4
   },
   {
     "pid": "tto-002",
@@ -86,9 +69,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-002/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-002",
-    "lunr_id": 7
+    "lunr_id": 5
   },
   {
     "pid": "tto-003",
@@ -97,9 +81,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-003/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-003",
-    "lunr_id": 8
+    "lunr_id": 6
   },
   {
     "pid": "tto-004",
@@ -108,9 +93,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-004/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-004",
-    "lunr_id": 9
+    "lunr_id": 7
   },
   {
     "pid": "tto-005",
@@ -119,9 +105,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-005/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-005",
-    "lunr_id": 10
+    "lunr_id": 8
   },
   {
     "pid": "tto-006",
@@ -130,9 +117,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-006/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-006",
-    "lunr_id": 11
+    "lunr_id": 9
   },
   {
     "pid": "tto-007",
@@ -141,9 +129,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-007/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-007",
-    "lunr_id": 12
+    "lunr_id": 10
   },
   {
     "pid": "tto-008",
@@ -152,9 +141,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-008/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-008",
-    "lunr_id": 13
+    "lunr_id": 11
   },
   {
     "pid": "tto-009",
@@ -163,9 +153,10 @@ layout: none
     "location": "Trinidad, Trinidad and Tobago",
     "tag": "historical-photo",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/tto-009/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-009",
-    "lunr_id": 14
+    "lunr_id": 12
   },
   {
     "pid": "tto-010",
@@ -177,7 +168,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/tto-010/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-010",
-    "lunr_id": 15
+    "lunr_id": 13
   },
   {
     "pid": "tto-012",
@@ -189,39 +180,6 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/tto-012/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/tto-012",
-    "lunr_id": 16
-  },
-  {
-    "pid": "tto010",
-    "label": "Sports competition at Cascade School for the Deaf",
-    "description_en": "Taken at Cascade School for the Deaf",
-    "location": "Trinidad, Trinidad and Tobago",
-    "tag": "historical-photo",
-    "collection": "minicomp",
-    "content": " ",
-    "permalink": "/minicomp/tto010",
-    "lunr_id": 17
-  },
-  {
-    "pid": "tto011",
-    "label": "Sewing class at Cascade School for the Deaf",
-    "description_en": "Taken at Cascade School for the Deaf",
-    "location": "Trinidad, Trinidad and Tobago",
-    "tag": "historical-page",
-    "collection": "minicomp",
-    "content": " ",
-    "permalink": "/minicomp/tto011",
-    "lunr_id": 18
-  },
-  {
-    "pid": "tto012",
-    "label": "Oralism class at Cascade School for the Deaf",
-    "description_en": "Taken at Cascade School for the Deaf",
-    "location": "Trinidad, Trinidad and Tobago",
-    "tag": "historical-page",
-    "collection": "minicomp",
-    "content": " ",
-    "permalink": "/minicomp/tto012",
-    "lunr_id": 19
+    "lunr_id": 14
   }
 ]
