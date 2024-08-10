@@ -1,0 +1,21 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/deafcaribbeanhistories.json",
+  "@type": "sc:Collection",
+  "label": "deafcaribbeanhistories",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fal-vi-001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fal-vi-001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fal-vi-002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fal-vi-002"
+    }
+  ]
+}
