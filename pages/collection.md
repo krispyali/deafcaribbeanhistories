@@ -5,6 +5,8 @@ gallery: True
 permalink: /collection/
 ---
 
-This is a collection of videos of and about deaf Caribbean people and the languages they use. You can filter the videos by choosing year, location and tags below. 
+Here you can see our collection of videos, photos and documents related to Caribbean Deaf History. 
 
-{% include gallery.html facet_by='year_created|location|_tags' collection='deafcaribbeanhistories' num_column=4 %}
+Below you can use the tags to filter for what you are looking for. 
+
+{% include gallery.html facet_by='object_type|location|tags*' collection='minicomp' num_column=4 %}

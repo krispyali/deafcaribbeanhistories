@@ -18,5 +18,3 @@ The project contributors comprise both deaf and hearing researchers, who each co
 
 
 
-
-
