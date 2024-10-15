@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: https://krispyali.github.io/deafcaribbeanhistories/about/
 ---
 
 The digital archive contains personal and community histories from deaf individuals across the Caribbean, using indigenous Caribbean signed languages. This initiative includes communities from Trinidad and Tobago, Jamaica, Guyana, Providence Island (Colombia), the Bay Islands (Honduras), and Puerto Rico. This archive seeks to provide a crucial resource for education, research, and advocacy, shedding light on the often-overlooked histories of Caribbean deaf communities.
