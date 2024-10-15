@@ -70,6 +70,6 @@ menu:
   - label: "Browse"
     link: "/collection/"
   - label: "Search"
-    link: "/search/"
+    link: "https://krispyali.github.io/deafcaribbeanhistories/search/"
   - label: "About"
     link: "/about/"
