@@ -68,7 +68,7 @@ menu:
       - label: "Subset Collection"
         link: "/exhibits/subset/"
   - label: "Browse"
-    link: "/collection/"
+    link: "https://krispyali.github.io/deafcaribbeanhistories/collection/"
   - label: "Search"
     link: "https://krispyali.github.io/deafcaribbeanhistories/search/"
   - label: "About"
