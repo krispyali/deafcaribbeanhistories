@@ -69,7 +69,7 @@ menu:
         link: "/exhibits/subset/"
   - label: "Browse the exhibition"
     link: "/collection/"
-  - label: "Search"
+  - label: "Search the collection"
     link: "/search/"
   - label: "Credits"
     link: "/about/"
