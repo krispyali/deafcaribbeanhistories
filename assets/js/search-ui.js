@@ -23,7 +23,7 @@ function displayResult(item, fields, url) {
   var label = item.label || 'Untitled';
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
-  var meta = `<b>Languages</b>: ${item.languages} |<b>About</b>:  ${item.description_en}`;
+  var meta = `<b>Length</b>: ${item.length} |<b>About</b>:  ${item.description_en}`;
   // note: href below not working on localhost
   return `<div class="result"><a href="..${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta}</span></p></a></div>`;
 }
