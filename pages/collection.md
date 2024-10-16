@@ -2,7 +2,7 @@
 layout: page
 title: Browse the Collection
 gallery: True
-permalink: https://krispyali.github.io/deafcaribbeanhistories/collection/
+permalink: /collection/
 ---
 
 Here you can see our collection of videos, photos and documents related to Caribbean Deaf History. 
