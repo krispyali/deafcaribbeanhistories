@@ -1,8 +1,8 @@
 ---
 layout: exhibit
-title: 'Exhibit with Image References'
+title: 'Providence Island'
 author: Mihr 'Ali
-publish_date: 2018-11-15
+publish_date: 2024-10-15
 permalink: /exhibits/references/
 ---
 
