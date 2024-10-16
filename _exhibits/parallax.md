@@ -1,8 +1,8 @@
 ---
 layout: exhibit
-title: 'Exhibit with a Parallax Image'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: 'Cascade School for the Deaf'
+author: a person
+publish_date: 2024-10-15
 permalink: /exhibits/parallax/
 ---
 
