@@ -1,8 +1,13 @@
 ---
 layout: exhibit
 title: 'Cascade School for the Deaf'
+<<<<<<< HEAD
 author: A Special Exhibition
 publish_date: 2024-11-01
+=======
+author: a person
+publish_date: 2024-10-15
+>>>>>>> 4d1f4d114ddb2e5bfa3d3ce617dba826605994a0
 permalink: /exhibits/parallax/
 ---
 <img src="{{'/assets/figures/tto-012.jpg' | absolute_url}}" height="100%" width="100%" alt="Children at Cascade School for the Deaf"/> 
@@ -30,4 +35,10 @@ Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis.
 
 ### Notes
 
+<<<<<<< HEAD
 [^1]: These images were scanned by Alicia Lamb. Read more about the history of deaf schooling in Trinidad in Alicia's MPhil thesis.
+=======
+[^1]: Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor.
+
+[^2]: Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+>>>>>>> 4d1f4d114ddb2e5bfa3d3ce617dba826605994a0

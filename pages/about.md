@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: About
 permalink: /about/
 ---
@@ -24,3 +25,11 @@ This digital exhibition and the digital archive were made possible due to a micr
 
 ## Contact 
 Get in touch with us at caribbeansignlanguages@gmail.com
+=======
+title: Credits
+permalink: /about/
+---
+---
+
+This archive was made possible because of many people. The material in this archive was collected by the following people: Ian Dhanoolal, Yarett Pineiro, Andre Witter, Rehana Omardeen, Kris Ali and Ben Braithwaite. Rehana Omardeen, Kris Ali and Ben Braithwaite curated all of the material. This archive was made possible due to a micro-grant from Caribbean Digital Scholarship Collective. 
+>>>>>>> 4d1f4d114ddb2e5bfa3d3ce617dba826605994a0
