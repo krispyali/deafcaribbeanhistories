@@ -59,17 +59,15 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: "Exhibits"
+  - label: "Browse the exhibition"
+    link: "/collection/"
+  - label: "Special exhibits"
     sub:
-      - label: "Parallax Images"
+      - label: "Cascade School for the Deaf"
         link: "/exhibits/parallax/"
-      - label: "Image References"
+      - label: "Providence Island"
         link: "/exhibits/references/"
-      - label: "Subset Collection"
-        link: "/exhibits/subset/"
-  - label: "Browse"
-    link: "/browse/"
-  - label: "Search"
+  - label: "Search the collection"
     link: "/search/"
   - label: "About"
     link: "/about/"

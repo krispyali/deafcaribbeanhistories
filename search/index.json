@@ -3,6 +3,39 @@ layout: none
 ---
 [
   {
+    "pid": "bay_002",
+    "label": "Brick Bay",
+    "description_en": "Joseph is at the beach & says that Hilton & Gladys lost the deed to their property there",
+    "location": "Brick Bay, Roatan, Bay Islands, Honduras",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/bay_002/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/bay_002",
+    "lunr_id": 0
+  },
+  {
+    "pid": "bay_003",
+    "label": "Joseph talks about his family",
+    "description_en": "Joseph talks to Ian about Watson Sprague adopting, his 3 wives; Gladys went blind, lost her wedding ring; Gladys' two children; Hilton worked on a boat in Belize painting, coconuts; came back from Belize to find the land taken",
+    "location": "French Harbour, Roatan, Bay Islands, Honduras",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/bay_003/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/bay_003",
+    "lunr_id": 1
+  },
+  {
+    "pid": "ci_001",
+    "label": "Old Cayman Islands Sign Language alphabet",
+    "description_en": "Charles McField demonstrates the old Caymanian fignerspelling alphabet",
+    "location": "Grand Cayman",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/ci_001/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/ci_001",
+    "lunr_id": 2
+  },
+  {
     "pid": "fal-vi-001",
     "label": "Liming",
     "description_en": "Two signers from Falmouth, one hearing and one deaf, talk about liming",
@@ -11,7 +44,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/fal-vi-001/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/deafcaribbeanhistories/fal-vi-001",
-    "lunr_id": 0
+    "lunr_id": 3
   },
   {
     "pid": "fal-vi-002",
@@ -22,6 +55,72 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/fal-vi-002/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/deafcaribbeanhistories/fal-vi-002",
-    "lunr_id": 1
+    "lunr_id": 4
+  },
+  {
+    "pid": "tt_001",
+    "label": "Oralism at Cascade School for the Deaf 1",
+    "description_en": "Lorna Rodrigues talks about oralism at Cascade School for the Deaf when she was a student",
+    "location": "Trinidad",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/tt_001/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/tt_001",
+    "lunr_id": 5
+  },
+  {
+    "pid": "tt_002",
+    "label": "Oralism at Cascade School for the Deaf 2",
+    "description_en": "Lorna Rodrigues talks about oralism at Cascade School for the Deaf when she was a student",
+    "location": "Trinidad",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/tt_002/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/tt_002",
+    "lunr_id": 6
+  },
+  {
+    "pid": "tt_003",
+    "label": "Larry school experience - fingerspelling no signing",
+    "description_en": "Larry Rodrigues describes his experience at the Cascade School for the Deaf ",
+    "location": "Trinidad",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/tt_003/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/tt_003",
+    "lunr_id": 7
+  },
+  {
+    "pid": "tt_004",
+    "label": "Oralism at Cascade School for the Deaf 3",
+    "description_en": "Lorna Rodrigues talks about oralism at Cascade School for the Deaf when she was a student",
+    "location": "Trinidad",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/tt_004/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/tt_004",
+    "lunr_id": 8
+  },
+  {
+    "pid": "tt_005",
+    "label": "Oralism at Cascade School for the Deaf 4",
+    "description_en": "Paula Elwin discusses her experience with oralism at Cascade School for the Deaf when she was a student",
+    "location": "Trinidad",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/tt_005/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/tt_005",
+    "lunr_id": 9
+  },
+  {
+    "pid": "tt_009",
+    "label": "A new sign language at Cascade School for the Deaf",
+    "description_en": "Larry Rodrigues describes encountering a new sign language when his nephew goes to Cascade School for the Deaf ",
+    "location": "Trinidad",
+    "collection": "deafcaribbeanhistories",
+    "thumbnail": "/img/derivatives/iiif/images/tt_009/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/deafcaribbeanhistories/tt_009",
+    "lunr_id": 10
   }
 ]

@@ -8,11 +8,19 @@
 layout: home
 ---
 
-### Deaf Caribbean Histories <span style="color:#440027;font-size:20px"><em>A Digital Exhibition</em></span>
+## Welcome! <span style="color:#440027;font-size:20px"><em>Bienvenue! Bienvenidos!</em></span>
 
-Welcome! This digital archive contains personal and community histories from deaf individuals across the Caribbean, using indigenous Caribbean signed languages. This initiative includes communities from Trinidad and Tobago, Jamaica, Guyana, Providence Island (Colombia), the Bay Islands (Honduras), and Puerto Rico. This archive seeks to provide a crucial resource for education, research, and advocacy, shedding light on the often-overlooked histories of Caribbean deaf communities.
+This digital exhibition contains personal and community histories from deaf individuals across the Caribbean, using indigenous Caribbean signed languages. This initiative includes communities from Trinidad and Tobago, Jamaica, Guyana, Providence Island (Colombia), the Bay Islands (Honduras), and Puerto Rico. 
 
-The project contributors comprise both deaf and hearing researchers, who each contributed to the curation and collection of archival materials. The digital archive aims to educate deaf children about their linguistic and community histories, support language rights advocacy, and serve as a multidisciplinary research resource.
+This exhibition is meant to promote and highlight the digital archive of Caribbean sign languages and deaf history hosted by the Alma Jordan Library at the University of the West Indies, St Augustine. 
+
+The exhibition seeks to provide a crucial resource for education, research, and advocacy, shedding light on the often-overlooked histories of Caribbean deaf communities. The digital exhibition aims to educate deaf children about their linguistic and community histories, support language rights advocacy, and serve as a multidisciplinary research resource.
+
+
+
+### Where are the videos from?
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14b_wzBCeOIY41X7UTSdZZhlIa5fxXOA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
 
 ---
 
