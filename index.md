@@ -16,7 +16,8 @@ This exhibition is meant to promote and highlight the digital archive of Caribbe
 
 The exhibition seeks to provide a crucial resource for education, research, and advocacy, shedding light on the often-overlooked histories of Caribbean deaf communities. The digital exhibition aims to educate deaf children about their linguistic and community histories, support language rights advocacy, and serve as a multidisciplinary research resource.
 
-
+### How to use the exhibition
+Click on ["Browse"]({{site.baseurl}}/collection/) to view the videos in the exhibition or use the ["Search"]({{site.baseurl}}/search/) function to find videos. Don't miss our special exhibitions on ["Trinidad and Tobago"]({{site.baseurl}}/parallax/) and ["Providence Island"]({{site.baseurl}}/references/). Find out more about this exhibition in ["About"]({{site.baseurl}}/about/).
 
 ### Where are the videos from?
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=14b_wzBCeOIY41X7UTSdZZhlIa5fxXOA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
