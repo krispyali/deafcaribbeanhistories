@@ -14,8 +14,6 @@ This digital exhibition contains personal and community histories from deaf indi
 
 This exhibition is meant to promote and highlight the digital archive of Caribbean sign languages and deaf history hosted by the Alma Jordan Library at the University of the West Indies, St Augustine. 
 
-The exhibition seeks to provide a crucial resource for education, research, and advocacy, shedding light on the often-overlooked histories of Caribbean deaf communities. The digital exhibition aims to educate deaf children about their linguistic and community histories, support language rights advocacy, and serve as a multidisciplinary research resource.
-
 ### How to use the exhibition
 Click on ["Browse"]({{site.baseurl}}/collection/) to view the videos in the exhibition or use the ["Search"]({{site.baseurl}}/search/) function to find videos. Don't miss our special exhibitions on ["Trinidad and Tobago"]({{site.baseurl}}/parallax/) and ["Providence Island"]({{site.baseurl}}/references/). Find out more about this exhibition in ["About"]({{site.baseurl}}/about/).
 

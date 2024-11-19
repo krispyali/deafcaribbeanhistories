@@ -9,6 +9,8 @@ Historically, Caribbean signed languages have received minimal attention compare
 
 However, recent advancements in video technology have enabled the creation of comprehensive digital collections, capturing the rich linguistic and cultural heritage of Caribbean deaf communities. These recordings contain a wealth of historical narratives from deaf people themselves, expressed in their own languages. This project utilises these collections, drawing from previous and ongoing documentation efforts, to curate an exhibition of Caribbean deaf history. 
 
+The archive seeks to provide a crucial resource for education, research, and advocacy, shedding light on the often-overlooked histories of Caribbean deaf communities. The archive aims to educate deaf children about their linguistic and community histories, support language rights advocacy, and serve as a multidisciplinary research resource.
+
 ## Credits
 This archive was made possible because of many people. This digital exhibition was built by Kris M Ali, Ben Braithwaite and Rehana Omardeen. The material in this archive was collected by the following people: Ian Dhanoolal, Yarett Pineiro, Andre Witter, Rehana Omardeen, Kris Ali and Ben Braithwaite.
 
